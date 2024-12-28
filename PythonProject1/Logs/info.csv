@@ -1,0 +1,84 @@
+Timestamp,Log Level,Message
+"2024-12-28 11:09:54,091",INFO,Starting to fetch drinks data...
+"2024-12-28 11:09:54,092",INFO,Fetching drinks starting with 'A':
+"2024-12-28 11:09:54,092",INFO,Sending request for letter 'A'.
+"2024-12-28 11:09:54,217",INFO,Successfully fetched drinks starting with 'A'.
+"2024-12-28 11:09:54,217",INFO,Fetching drinks starting with 'B':
+"2024-12-28 11:09:54,217",INFO,Sending request for letter 'B'.
+"2024-12-28 11:09:54,333",INFO,Successfully fetched drinks starting with 'B'.
+"2024-12-28 11:09:54,334",INFO,Fetching drinks starting with 'C':
+"2024-12-28 11:09:54,334",INFO,Sending request for letter 'C'.
+"2024-12-28 11:09:54,443",INFO,Successfully fetched drinks starting with 'C'.
+"2024-12-28 11:09:54,443",INFO,Fetching drinks starting with 'D':
+"2024-12-28 11:09:54,444",INFO,Sending request for letter 'D'.
+"2024-12-28 11:09:54,525",INFO,Successfully fetched drinks starting with 'D'.
+"2024-12-28 11:09:54,526",INFO,Fetching drinks starting with 'E':
+"2024-12-28 11:09:54,526",INFO,Sending request for letter 'E'.
+"2024-12-28 11:09:54,604",INFO,Successfully fetched drinks starting with 'E'.
+"2024-12-28 11:09:54,605",INFO,Fetching drinks starting with 'F':
+"2024-12-28 11:09:54,605",INFO,Sending request for letter 'F'.
+"2024-12-28 11:09:54,688",INFO,Successfully fetched drinks starting with 'F'.
+"2024-12-28 11:09:54,688",INFO,Fetching drinks starting with 'G':
+"2024-12-28 11:09:54,688",INFO,Sending request for letter 'G'.
+"2024-12-28 11:09:54,782",INFO,Successfully fetched drinks starting with 'G'.
+"2024-12-28 11:09:54,783",INFO,Fetching drinks starting with 'H':
+"2024-12-28 11:09:54,783",INFO,Sending request for letter 'H'.
+"2024-12-28 11:09:54,861",INFO,Successfully fetched drinks starting with 'H'.
+"2024-12-28 11:09:54,862",INFO,Fetching drinks starting with 'I':
+"2024-12-28 11:09:54,862",INFO,Sending request for letter 'I'.
+"2024-12-28 11:09:54,937",INFO,Successfully fetched drinks starting with 'I'.
+"2024-12-28 11:09:54,938",INFO,Fetching drinks starting with 'J':
+"2024-12-28 11:09:54,938",INFO,Sending request for letter 'J'.
+"2024-12-28 11:09:55,015",INFO,Successfully fetched drinks starting with 'J'.
+"2024-12-28 11:09:55,016",INFO,Fetching drinks starting with 'K':
+"2024-12-28 11:09:55,016",INFO,Sending request for letter 'K'.
+"2024-12-28 11:09:55,107",INFO,Successfully fetched drinks starting with 'K'.
+"2024-12-28 11:09:55,108",INFO,Fetching drinks starting with 'L':
+"2024-12-28 11:09:55,108",INFO,Sending request for letter 'L'.
+"2024-12-28 11:09:55,182",INFO,Successfully fetched drinks starting with 'L'.
+"2024-12-28 11:09:55,182",INFO,Fetching drinks starting with 'M':
+"2024-12-28 11:09:55,183",INFO,Sending request for letter 'M'.
+"2024-12-28 11:09:55,280",INFO,Successfully fetched drinks starting with 'M'.
+"2024-12-28 11:09:55,281",INFO,Fetching drinks starting with 'N':
+"2024-12-28 11:09:55,281",INFO,Sending request for letter 'N'.
+"2024-12-28 11:09:55,355",INFO,Successfully fetched drinks starting with 'N'.
+"2024-12-28 11:09:55,356",INFO,Fetching drinks starting with 'O':
+"2024-12-28 11:09:55,356",INFO,Sending request for letter 'O'.
+"2024-12-28 11:09:55,433",INFO,Successfully fetched drinks starting with 'O'.
+"2024-12-28 11:09:55,434",INFO,Fetching drinks starting with 'P':
+"2024-12-28 11:09:55,434",INFO,Sending request for letter 'P'.
+"2024-12-28 11:09:55,507",INFO,Successfully fetched drinks starting with 'P'.
+"2024-12-28 11:09:55,508",INFO,Fetching drinks starting with 'Q':
+"2024-12-28 11:09:55,508",INFO,Sending request for letter 'Q'.
+"2024-12-28 11:09:55,659",INFO,Successfully fetched drinks starting with 'Q'.
+"2024-12-28 11:09:55,659",INFO,Fetching drinks starting with 'R':
+"2024-12-28 11:09:55,659",INFO,Sending request for letter 'R'.
+"2024-12-28 11:09:55,742",INFO,Successfully fetched drinks starting with 'R'.
+"2024-12-28 11:09:55,742",INFO,Fetching drinks starting with 'S':
+"2024-12-28 11:09:55,743",INFO,Sending request for letter 'S'.
+"2024-12-28 11:09:55,824",INFO,Successfully fetched drinks starting with 'S'.
+"2024-12-28 11:09:55,824",INFO,Fetching drinks starting with 'T':
+"2024-12-28 11:09:55,824",INFO,Sending request for letter 'T'.
+"2024-12-28 11:09:55,905",INFO,Successfully fetched drinks starting with 'T'.
+"2024-12-28 11:09:55,905",INFO,Fetching drinks starting with 'U':
+"2024-12-28 11:09:55,905",INFO,Sending request for letter 'U'.
+"2024-12-28 11:09:55,983",INFO,Successfully fetched drinks starting with 'U'.
+"2024-12-28 11:09:55,983",WARNING,No drinks found for letter 'U'.
+"2024-12-28 11:09:55,984",INFO,Fetching drinks starting with 'V':
+"2024-12-28 11:09:55,984",INFO,Sending request for letter 'V'.
+"2024-12-28 11:09:56,051",INFO,Successfully fetched drinks starting with 'V'.
+"2024-12-28 11:09:56,052",INFO,Fetching drinks starting with 'W':
+"2024-12-28 11:09:56,052",INFO,Sending request for letter 'W'.
+"2024-12-28 11:09:56,138",INFO,Successfully fetched drinks starting with 'W'.
+"2024-12-28 11:09:56,138",INFO,Fetching drinks starting with 'X':
+"2024-12-28 11:09:56,138",INFO,Sending request for letter 'X'.
+"2024-12-28 11:09:56,200",INFO,Successfully fetched drinks starting with 'X'.
+"2024-12-28 11:09:56,200",WARNING,No drinks found for letter 'X'.
+"2024-12-28 11:09:56,200",INFO,Fetching drinks starting with 'Y':
+"2024-12-28 11:09:56,201",INFO,Sending request for letter 'Y'.
+"2024-12-28 11:09:56,269",INFO,Successfully fetched drinks starting with 'Y'.
+"2024-12-28 11:09:56,270",INFO,Fetching drinks starting with 'Z':
+"2024-12-28 11:09:56,270",INFO,Sending request for letter 'Z'.
+"2024-12-28 11:09:56,340",INFO,Successfully fetched drinks starting with 'Z'.
+"2024-12-28 11:09:56,357",INFO,Data successfully saved to RawFiles/cocktails.csv.
+"2024-12-28 11:09:56,357",INFO,Data fetching and saving complete.
